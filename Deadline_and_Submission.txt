@@ -1,0 +1,16 @@
+Due: March 10 by 11:00 PM.
+
+This is an individual assignment, i.e., it should not be completed in
+a group.
+
+Complete all the exercises from Section 2.
+
+Take screenshots of any outputs.
+
+Put any screenshots and all your programs as a single PDF file.
+Upload the PDF file in Moodle. You are not required to upload program
+files separately.
+
+Please make sure to format the programs so that they can be easily
+followed.  Equal spaced fonts such as Courier is good when formatting
+programs.
